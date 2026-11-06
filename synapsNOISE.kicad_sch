@@ -1,0 +1,382 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "adf8a4c1-20c4-4da2-8597-4e8a2356fed2")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 113.665 75.565)
+		(size 12.7 6.985)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "21f637a7-f0f9-4e27-826e-9acc79b32906")
+		(property "Sheetname" "BlueNoise"
+			(at 113.665 74.8534 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bluenoise.kicad_sch"
+			(at 113.665 83.1346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 91.44)
+		(size 12.7 8.255)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "30f1872a-79c2-40ee-b4a2-5cd9f53c27bc")
+		(property "Sheetname" "RedNoise"
+			(at 114.3 90.7284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rednoise.kicad_sch"
+			(at 114.3 100.2796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.98 41.275)
+		(size 12.7 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "41522c89-e7e3-4aa6-abf0-e0213b99ea46")
+		(property "Sheetname" "GrainyOut"
+			(at 220.98 40.5634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "grainyout.kicad_sch"
+			(at 220.98 49.4796 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 123.19 38.735)
+		(size 12.7 12.065)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "420a6669-62ca-4e31-b1fc-98ab3402dbea")
+		(property "Sheetname" "NoiseSources"
+			(at 123.19 38.0234 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "noisesources.kicad_sch"
+			(at 123.19 51.3846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 93.345)
+		(size 12.7 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "88f66f66-9f66-4521-81cf-c97dbd7fcdf0")
+		(property "Sheetname" "PinkNoise"
+			(at 143.51 92.6334 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pinknoise.kicad_sch"
+			(at 143.51 101.5496 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.64 140.97)
+		(size 12.7 12.065)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c9457429-9e5d-4cbf-b41d-88ecc39e9515")
+		(property "Sheetname" "Mixer"
+			(at 40.64 140.2584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mixer.kicad_sch"
+			(at 40.64 153.6196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 46.99 38.1)
+		(size 12.7 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d77ec47c-7ba7-4394-af8f-47de49d778af")
+		(property "Sheetname" "Power"
+			(at 46.99 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 46.99 48.8446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 143.51 74.93)
+		(size 12.7 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e6cf5dbe-b9ba-4781-ae31-cb3dc4b72b55")
+		(property "Sheetname" "VioletNoise"
+			(at 143.51 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "violetnoise.kicad_sch"
+			(at 143.51 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "synapsNOISE"
+				(path "/adf8a4c1-20c4-4da2-8597-4e8a2356fed2"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

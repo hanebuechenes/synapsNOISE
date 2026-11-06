@@ -1,0 +1,1269 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/synapsNOISE.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [],
+        "sheet_files": [
+            {
+                "sheet_name": "BlueNoise",
+                "sheet_file": "bluenoise.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/bluenoise.kicad_sch",
+                "x_position": 113.665,
+                "y_position": 83.1346,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "RedNoise",
+                "sheet_file": "rednoise.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/rednoise.kicad_sch",
+                "x_position": 114.3,
+                "y_position": 100.2796,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "GrainyOut",
+                "sheet_file": "grainyout.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/grainyout.kicad_sch",
+                "x_position": 220.98,
+                "y_position": 49.4796,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "NoiseSources",
+                "sheet_file": "noisesources.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/noisesources.kicad_sch",
+                "x_position": 123.19,
+                "y_position": 51.3846,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "PinkNoise",
+                "sheet_file": "pinknoise.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/pinknoise.kicad_sch",
+                "x_position": 143.51,
+                "y_position": 101.5496,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "Mixer",
+                "sheet_file": "mixer.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/mixer.kicad_sch",
+                "x_position": 40.64,
+                "y_position": 153.6196,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "Power",
+                "sheet_file": "power.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/power.kicad_sch",
+                "x_position": 46.99,
+                "y_position": 48.8446,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "VioletNoise",
+                "sheet_file": "violetnoise.kicad_sch",
+                "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/violetnoise.kicad_sch",
+                "x_position": 143.51,
+                "y_position": 84.4046,
+                "rotation": 0
+            }
+        ]
+    },
+    {
+        "sheet_name": "BlueNoise",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/bluenoise.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R11",
+                "x_position": 104.14,
+                "y_position": 44.45,
+                "rotation": 90
+            },
+            {
+                "reference": "C13",
+                "x_position": 68.58,
+                "y_position": 68.58,
+                "rotation": 270
+            },
+            {
+                "reference": "C15",
+                "x_position": 68.58,
+                "y_position": 91.44,
+                "rotation": 270
+            },
+            {
+                "reference": "RV_BLUE1",
+                "x_position": 111.76,
+                "y_position": 44.45,
+                "rotation": 270
+            },
+            {
+                "reference": "R12",
+                "x_position": 118.11,
+                "y_position": 71.12,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR023",
+                "x_position": 96.52,
+                "y_position": 73.66,
+                "rotation": 0
+            },
+            {
+                "reference": "C16",
+                "x_position": 104.14,
+                "y_position": 57.15,
+                "rotation": 270
+            },
+            {
+                "reference": "R13",
+                "x_position": 82.55,
+                "y_position": 95.25,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR025",
+                "x_position": 82.55,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "C14",
+                "x_position": 68.58,
+                "y_position": 80.01,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR024",
+                "x_position": 125.73,
+                "y_position": 77.47,
+                "rotation": 0
+            },
+            {
+                "reference": "R8",
+                "x_position": 77.47,
+                "y_position": 68.58,
+                "rotation": 90
+            },
+            {
+                "reference": "R10",
+                "x_position": 88.9,
+                "y_position": 68.58,
+                "rotation": 90
+            },
+            {
+                "reference": "R9",
+                "x_position": 77.47,
+                "y_position": 80.01,
+                "rotation": 90
+            },
+            {
+                "reference": "U1",
+                "x_position": 104.14,
+                "y_position": 71.12,
+                "rotation": 0
+            },
+            {
+                "reference": "J3",
+                "x_position": 137.16,
+                "y_position": 73.66,
+                "rotation": 180
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "RedNoise",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/rednoise.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R15",
+                "x_position": 62.23,
+                "y_position": 33.02,
+                "rotation": 90
+            },
+            {
+                "reference": "J4",
+                "x_position": 92.71,
+                "y_position": 53.34,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR026",
+                "x_position": 54.61,
+                "y_position": 53.34,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR027",
+                "x_position": 81.28,
+                "y_position": 57.15,
+                "rotation": 0
+            },
+            {
+                "reference": "R16",
+                "x_position": 76.2,
+                "y_position": 50.8,
+                "rotation": 90
+            },
+            {
+                "reference": "C17",
+                "x_position": 62.23,
+                "y_position": 43.18,
+                "rotation": 270
+            },
+            {
+                "reference": "R14",
+                "x_position": 43.18,
+                "y_position": 48.26,
+                "rotation": 90
+            },
+            {
+                "reference": "RV_RED1",
+                "x_position": 69.85,
+                "y_position": 33.02,
+                "rotation": 270
+            },
+            {
+                "reference": "U1",
+                "x_position": 62.23,
+                "y_position": 50.8,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "GrainyOut",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/grainyout.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "J6",
+                "x_position": 166.37,
+                "y_position": 101.6,
+                "rotation": 180
+            },
+            {
+                "reference": "R23",
+                "x_position": 93.98,
+                "y_position": 76.2,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR045",
+                "x_position": 170.18,
+                "y_position": 78.74,
+                "rotation": 0
+            },
+            {
+                "reference": "RV_Grainy_CV",
+                "x_position": 160.02,
+                "y_position": 72.39,
+                "rotation": 90
+            },
+            {
+                "reference": "R27",
+                "x_position": 147.32,
+                "y_position": 102.87,
+                "rotation": 180
+            },
+            {
+                "reference": "J8",
+                "x_position": 181.61,
+                "y_position": 74.93,
+                "rotation": 180
+            },
+            {
+                "reference": "R25",
+                "x_position": 139.7,
+                "y_position": 72.39,
+                "rotation": 180
+            },
+            {
+                "reference": "R21",
+                "x_position": 93.98,
+                "y_position": 101.6,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR034",
+                "x_position": 154.94,
+                "y_position": 105.41,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR032",
+                "x_position": 88.9,
+                "y_position": 62.23,
+                "rotation": 0
+            },
+            {
+                "reference": "U2",
+                "x_position": 110.49,
+                "y_position": 73.66,
+                "rotation": 0
+            },
+            {
+                "reference": "R24",
+                "x_position": 93.98,
+                "y_position": 62.23,
+                "rotation": 90
+            },
+            {
+                "reference": "D4",
+                "x_position": 125.73,
+                "y_position": 73.66,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR031",
+                "x_position": 88.9,
+                "y_position": 90.17,
+                "rotation": 180
+            },
+            {
+                "reference": "D3",
+                "x_position": 125.73,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "U2",
+                "x_position": 110.49,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "R22",
+                "x_position": 93.98,
+                "y_position": 90.17,
+                "rotation": 90
+            },
+            {
+                "reference": "RV2",
+                "x_position": 146.05,
+                "y_position": 83.82,
+                "rotation": 0
+            },
+            {
+                "reference": "R39",
+                "x_position": 160.02,
+                "y_position": 81.28,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR046",
+                "x_position": 156.21,
+                "y_position": 72.39,
+                "rotation": 0
+            },
+            {
+                "reference": "R26",
+                "x_position": 140.97,
+                "y_position": 99.06,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR033",
+                "x_position": 147.32,
+                "y_position": 106.68,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "NoiseSources",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/noisesources.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "C10",
+                "x_position": 55.88,
+                "y_position": 48.26,
+                "rotation": 270
+            },
+            {
+                "reference": "C9",
+                "x_position": 24.13,
+                "y_position": 57.15,
+                "rotation": 180
+            },
+            {
+                "reference": "C27",
+                "x_position": 38.1,
+                "y_position": 97.79,
+                "rotation": 270
+            },
+            {
+                "reference": "U4",
+                "x_position": 55.88,
+                "y_position": 167.64,
+                "rotation": 0
+            },
+            {
+                "reference": "C29",
+                "x_position": 21.59,
+                "y_position": 160.02,
+                "rotation": 90
+            },
+            {
+                "reference": "U1",
+                "x_position": 78.74,
+                "y_position": 45.72,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR018",
+                "x_position": 49.53,
+                "y_position": 53.34,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR021",
+                "x_position": 161.29,
+                "y_position": 50.8,
+                "rotation": 0
+            },
+            {
+                "reference": "R5",
+                "x_position": 66.04,
+                "y_position": 33.02,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR042",
+                "x_position": 46.99,
+                "y_position": 187.96,
+                "rotation": 0
+            },
+            {
+                "reference": "C12",
+                "x_position": 143.51,
+                "y_position": 45.72,
+                "rotation": 270
+            },
+            {
+                "reference": "R1",
+                "x_position": 24.13,
+                "y_position": 39.37,
+                "rotation": 0
+            },
+            {
+                "reference": "R36",
+                "x_position": 29.21,
+                "y_position": 165.1,
+                "rotation": 270
+            },
+            {
+                "reference": "C31",
+                "x_position": 30.48,
+                "y_position": 138.43,
+                "rotation": 0
+            },
+            {
+                "reference": "R38",
+                "x_position": 36.83,
+                "y_position": 148.59,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR019",
+                "x_position": 64.77,
+                "y_position": 55.88,
+                "rotation": 0
+            },
+            {
+                "reference": "R37",
+                "x_position": 35.56,
+                "y_position": 168.91,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR043",
+                "x_position": 17.78,
+                "y_position": 163.83,
+                "rotation": 0
+            },
+            {
+                "reference": "U1",
+                "x_position": 168.91,
+                "y_position": 48.26,
+                "rotation": 0
+            },
+            {
+                "reference": "J2",
+                "x_position": 204.47,
+                "y_position": 50.8,
+                "rotation": 180
+            },
+            {
+                "reference": "R7",
+                "x_position": 182.88,
+                "y_position": 48.26,
+                "rotation": 90
+            },
+            {
+                "reference": "C28",
+                "x_position": 54.61,
+                "y_position": 182.88,
+                "rotation": 90
+            },
+            {
+                "reference": "C11",
+                "x_position": 78.74,
+                "y_position": 27.94,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR040",
+                "x_position": 16.51,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "SW1",
+                "x_position": 132.08,
+                "y_position": 45.72,
+                "rotation": 180
+            },
+            {
+                "reference": "Q1",
+                "x_position": 44.45,
+                "y_position": 53.34,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR017",
+                "x_position": 24.13,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "R6",
+                "x_position": 152.4,
+                "y_position": 45.72,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR044",
+                "x_position": 20.32,
+                "y_position": 148.59,
+                "rotation": 0
+            },
+            {
+                "reference": "R4",
+                "x_position": 78.74,
+                "y_position": 35.56,
+                "rotation": 90
+            },
+            {
+                "reference": "U3",
+                "x_position": 59.69,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "R2",
+                "x_position": 27.94,
+                "y_position": 48.26,
+                "rotation": 270
+            },
+            {
+                "reference": "R3",
+                "x_position": 64.77,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "D5",
+                "x_position": 20.32,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR020",
+                "x_position": 66.04,
+                "y_position": 36.83,
+                "rotation": 0
+            },
+            {
+                "reference": "R35",
+                "x_position": 44.45,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "NoiseLevel",
+                "x_position": 168.91,
+                "y_position": 35.56,
+                "rotation": 270
+            },
+            {
+                "reference": "R34",
+                "x_position": 27.94,
+                "y_position": 97.79,
+                "rotation": 90
+            },
+            {
+                "reference": "C30",
+                "x_position": 24.13,
+                "y_position": 148.59,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR041",
+                "x_position": 44.45,
+                "y_position": 105.41,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR022",
+                "x_position": 193.04,
+                "y_position": 54.61,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "PinkNoise",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/pinknoise.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R33",
+                "x_position": 68.58,
+                "y_position": 41.91,
+                "rotation": 90
+            },
+            {
+                "reference": "C21",
+                "x_position": 66.04,
+                "y_position": 57.15,
+                "rotation": 90
+            },
+            {
+                "reference": "R29",
+                "x_position": 86.36,
+                "y_position": 81.28,
+                "rotation": 90
+            },
+            {
+                "reference": "R28",
+                "x_position": 55.88,
+                "y_position": 78.74,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR035",
+                "x_position": 91.44,
+                "y_position": 87.63,
+                "rotation": 0
+            },
+            {
+                "reference": "R32",
+                "x_position": 73.66,
+                "y_position": 52.07,
+                "rotation": 90
+            },
+            {
+                "reference": "R31",
+                "x_position": 73.66,
+                "y_position": 57.15,
+                "rotation": 90
+            },
+            {
+                "reference": "RV_PINK1",
+                "x_position": 81.28,
+                "y_position": 41.91,
+                "rotation": 270
+            },
+            {
+                "reference": "U2",
+                "x_position": 71.12,
+                "y_position": 81.28,
+                "rotation": 0
+            },
+            {
+                "reference": "C22",
+                "x_position": 66.04,
+                "y_position": 52.07,
+                "rotation": 270
+            },
+            {
+                "reference": "J7",
+                "x_position": 102.87,
+                "y_position": 83.82,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR036",
+                "x_position": 63.5,
+                "y_position": 83.82,
+                "rotation": 0
+            },
+            {
+                "reference": "C20",
+                "x_position": 66.04,
+                "y_position": 66.04,
+                "rotation": 90
+            },
+            {
+                "reference": "R30",
+                "x_position": 73.66,
+                "y_position": 66.04,
+                "rotation": 90
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "Mixer",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/mixer.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R42",
+                "x_position": 111.76,
+                "y_position": 93.98,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR052",
+                "x_position": 158.75,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "Mix_Blue",
+                "x_position": 128.27,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "R47",
+                "x_position": 198.12,
+                "y_position": 100.33,
+                "rotation": 90
+            },
+            {
+                "reference": "R44",
+                "x_position": 144.78,
+                "y_position": 93.98,
+                "rotation": 180
+            },
+            {
+                "reference": "R46",
+                "x_position": 184.15,
+                "y_position": 82.55,
+                "rotation": 90
+            },
+            {
+                "reference": "C34",
+                "x_position": 184.15,
+                "y_position": 88.9,
+                "rotation": 90
+            },
+            {
+                "reference": "Mix_Violet",
+                "x_position": 144.78,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR047",
+                "x_position": 72.39,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR050",
+                "x_position": 124.46,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "J9",
+                "x_position": 219.71,
+                "y_position": 102.87,
+                "rotation": 180
+            },
+            {
+                "reference": "R41",
+                "x_position": 95.25,
+                "y_position": 93.98,
+                "rotation": 180
+            },
+            {
+                "reference": "Mix_Red",
+                "x_position": 95.25,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "R40",
+                "x_position": 76.2,
+                "y_position": 93.98,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR051",
+                "x_position": 140.97,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "R45",
+                "x_position": 162.56,
+                "y_position": 93.98,
+                "rotation": 180
+            },
+            {
+                "reference": "Mix_Grainy",
+                "x_position": 162.56,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR049",
+                "x_position": 107.95,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR053",
+                "x_position": 208.28,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "R43",
+                "x_position": 128.27,
+                "y_position": 93.98,
+                "rotation": 180
+            },
+            {
+                "reference": "Mix_White",
+                "x_position": 76.2,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "U3",
+                "x_position": 184.15,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "Mix_Pink",
+                "x_position": 111.76,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR048",
+                "x_position": 91.44,
+                "y_position": 86.36,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "Power",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/power.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "FB1",
+                "x_position": 161.29,
+                "y_position": 97.79,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR039",
+                "x_position": 31.75,
+                "y_position": 166.37,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR016",
+                "x_position": 168.91,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "C1",
+                "x_position": 161.29,
+                "y_position": 73.66,
+                "rotation": 90
+            },
+            {
+                "reference": "U3",
+                "x_position": 92.71,
+                "y_position": 166.37,
+                "rotation": 0
+            },
+            {
+                "reference": "D1",
+                "x_position": 173.99,
+                "y_position": 36.83,
+                "rotation": 0
+            },
+            {
+                "reference": "C24",
+                "x_position": 55.88,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "C5",
+                "x_position": 168.91,
+                "y_position": 104.14,
+                "rotation": 0
+            },
+            {
+                "reference": "C32",
+                "x_position": 46.99,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "C7",
+                "x_position": 116.84,
+                "y_position": 72.39,
+                "rotation": 90
+            },
+            {
+                "reference": "D2",
+                "x_position": 173.99,
+                "y_position": 46.99,
+                "rotation": 180
+            },
+            {
+                "reference": "C23",
+                "x_position": 64.77,
+                "y_position": 162.56,
+                "rotation": 0
+            },
+            {
+                "reference": "#FLG01",
+                "x_position": 109.22,
+                "y_position": 31.75,
+                "rotation": 0
+            },
+            {
+                "reference": "U2",
+                "x_position": 82.55,
+                "y_position": 166.37,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR07",
+                "x_position": 123.19,
+                "y_position": 41.91,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR015",
+                "x_position": 167.64,
+                "y_position": 85.09,
+                "rotation": 90
+            },
+            {
+                "reference": "FB2",
+                "x_position": 116.84,
+                "y_position": 97.79,
+                "rotation": 90
+            },
+            {
+                "reference": "C33",
+                "x_position": 46.99,
+                "y_position": 170.18,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR03",
+                "x_position": 92.71,
+                "y_position": 39.37,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR014",
+                "x_position": 124.46,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "C4",
+                "x_position": 124.46,
+                "y_position": 104.14,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR011",
+                "x_position": 157.48,
+                "y_position": 36.83,
+                "rotation": 90
+            },
+            {
+                "reference": "J1",
+                "x_position": 114.3,
+                "y_position": 41.91,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR05",
+                "x_position": 107.95,
+                "y_position": 44.45,
+                "rotation": 270
+            },
+            {
+                "reference": "U1",
+                "x_position": 72.39,
+                "y_position": 166.37,
+                "rotation": 0
+            },
+            {
+                "reference": "F1",
+                "x_position": 162.56,
+                "y_position": 36.83,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR013",
+                "x_position": 123.19,
+                "y_position": 85.09,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR038",
+                "x_position": 31.75,
+                "y_position": 173.99,
+                "rotation": 90
+            },
+            {
+                "reference": "C6",
+                "x_position": 176.53,
+                "y_position": 104.14,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 123.19,
+                "y_position": 36.83,
+                "rotation": 270
+            },
+            {
+                "reference": "C26",
+                "x_position": 55.88,
+                "y_position": 170.18,
+                "rotation": 0
+            },
+            {
+                "reference": "C2",
+                "x_position": 116.84,
+                "y_position": 85.09,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR09",
+                "x_position": 107.95,
+                "y_position": 46.99,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR012",
+                "x_position": 157.48,
+                "y_position": 46.99,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR06",
+                "x_position": 123.19,
+                "y_position": 39.37,
+                "rotation": 90
+            },
+            {
+                "reference": "#FLG03",
+                "x_position": 95.25,
+                "y_position": 34.29,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR010",
+                "x_position": 123.19,
+                "y_position": 46.99,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR08",
+                "x_position": 123.19,
+                "y_position": 44.45,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR04",
+                "x_position": 107.95,
+                "y_position": 41.91,
+                "rotation": 270
+            },
+            {
+                "reference": "C8",
+                "x_position": 132.08,
+                "y_position": 104.14,
+                "rotation": 0
+            },
+            {
+                "reference": "#FLG02",
+                "x_position": 109.22,
+                "y_position": 52.07,
+                "rotation": 180
+            },
+            {
+                "reference": "C3",
+                "x_position": 161.29,
+                "y_position": 85.09,
+                "rotation": 270
+            },
+            {
+                "reference": "F2",
+                "x_position": 162.56,
+                "y_position": 46.99,
+                "rotation": 90
+            },
+            {
+                "reference": "C25",
+                "x_position": 64.77,
+                "y_position": 170.18,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR037",
+                "x_position": 31.75,
+                "y_position": 158.75,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 107.95,
+                "y_position": 36.83,
+                "rotation": 90
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "VioletNoise",
+        "sheet_path": "/home/cyrano/data/cloud.local.lan/Electronix/GIT/eurorack/synapsNOISE/synapsNOISE/violetnoise.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "J5",
+                "x_position": 113.03,
+                "y_position": 59.69,
+                "rotation": 180
+            },
+            {
+                "reference": "U2",
+                "x_position": 82.55,
+                "y_position": 57.15,
+                "rotation": 0
+            },
+            {
+                "reference": "C18",
+                "x_position": 82.55,
+                "y_position": 49.53,
+                "rotation": 270
+            },
+            {
+                "reference": "R20",
+                "x_position": 57.15,
+                "y_position": 59.69,
+                "rotation": 0
+            },
+            {
+                "reference": "R18",
+                "x_position": 82.55,
+                "y_position": 39.37,
+                "rotation": 90
+            },
+            {
+                "reference": "C19",
+                "x_position": 52.07,
+                "y_position": 54.61,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR029",
+                "x_position": 101.6,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "R19",
+                "x_position": 96.52,
+                "y_position": 57.15,
+                "rotation": 90
+            },
+            {
+                "reference": "RV_VIOLET1",
+                "x_position": 90.17,
+                "y_position": 39.37,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR030",
+                "x_position": 57.15,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR028",
+                "x_position": 74.93,
+                "y_position": 59.69,
+                "rotation": 0
+            },
+            {
+                "reference": "R17",
+                "x_position": 63.5,
+                "y_position": 54.61,
+                "rotation": 90
+            }
+        ],
+        "sheet_files": []
+    }
+]
